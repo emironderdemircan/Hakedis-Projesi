@@ -1,0 +1,12 @@
+001,ahsap,adet,10,gugar
+002,alci,kilogram,15,abs
+003,aluminyum,adet,30,burak
+004,boru,adet,5,yilbor
+005,plywood,adet,87,satmag
+006,aydinlatma,adet,200,tepta
+007,boya,litre,68,filli
+008,cam,adet,500,pimapen
+009,cimento,kilogram,20,cimsa
+010,demir-celik,ton,3542,erlider
+011,betopan,adet,25,tepe
+012,beton,adet,4,kral
